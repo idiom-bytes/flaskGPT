@@ -9,7 +9,7 @@ Go build it!
 Use this flow to yolo deploy to Vercel.  
   
 ### Deploy directly from github
-1. Clone/Fork the repostory.
+1. Fork the repostory.
 2. Go to Vercel and choose this repository to deploy.
 3. Go to your Vercel, this project's page & settings after it completes deployment, and configure the Environment Variables by setting.
 ```
@@ -25,7 +25,7 @@ curl -X POST https://flaskgpt-your-account-vercel.app/api/prompt -H "Content-Typ
 Use this flow to run the server locally and test it.
 
 ### Terminal #1 - Setup your server
-1. Clone/Fork the repository and onto your local filesystem.
+1. Clone the repository onto your local filesystem.
 2. Configure your .env by setting
 ```
 OPEN_API_KEY=your-api-key
