@@ -1,0 +1,4 @@
+{
+    "builds": [{"src": "flaskGPT.py", "use": "@vercel/python"}],
+    "routes": [{"src": "/api/(.*)", "dest": "flaskGPT.py"}]
+}
