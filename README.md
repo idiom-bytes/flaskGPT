@@ -1,13 +1,13 @@
 # High Level
-This project was created to be thin and enable you to build on top.
-It uses the OpenAI API Key to KISS and lets you deploy a One-Shot AI server in seconds.
-
-Doesn't have what you're looking for?
-Go build it!
-
+This project was created to be thin and enable you to build on top.  
+It uses the OpenAI API Key to KISS and lets you deploy a One-Shot AI server in seconds.  
+  
+Doesn't have what you're looking for?  
+Go build it!  
+  
 ## Deploy on Vercel
-Use this flow to yolo deploy to Vercel.
-
+Use this flow to yolo deploy to Vercel.  
+  
 ### Deploy directly from github
 1. Clone/Fork the repostory.
 2. Go to Vercel and choose this repository to deploy.
