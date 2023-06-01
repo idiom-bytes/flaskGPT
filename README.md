@@ -1,6 +1,6 @@
 # High Level
 This project was created to be thin and enable you to build on top.  
-It uses the OpenAI API Key to KISS and lets you deploy a One-Shot AI server in seconds.  
+It uses Langchain, OpenAI, Flask, and Vercel to KISS and deploy a One-Shot AI server in seconds.
   
 Doesn't have what you're looking for?  
 Go build it!  
